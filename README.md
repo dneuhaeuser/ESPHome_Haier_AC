@@ -1,5 +1,5 @@
 # ESPHome_Haier_AC
-Control Haier/Heiko AC using ESPHome and IRremoteESP8266
+Control Haier/Heiko AC (160 bit IR protocol) with ESPHome and IRremoteESP8266
 
 - put "heiko_ir.h" in a folder under your ESPHome installation
 - set your IR transmitter pin const **uint16_t kIrLed = 12;**
